@@ -9,7 +9,7 @@
 // The candy is still in the development stages, so it's your job to, well... develop it!
 // hint: how can we randomize items in JS?
 
-// SUGAR RUSH CHALLENGE: Have trucks go to random locations, carrying RandoPop.
+// SUGAR RUSH CHALLENGE: Have 5 trucks carrying RandoPop, display on the page.
 // Also, just for fun, no two trucks can be carrying the same candy.
 // hint: how can for loops help here?
 
